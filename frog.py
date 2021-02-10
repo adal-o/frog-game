@@ -8,7 +8,7 @@ speed = 0.05
 rot_speed = 0.06
 floats = [0.01, 0.02, 0.051, 0.04,0.2, 0.32]
 floatss = [2,1.4,1.45,1.5,1.8,2.5,2.8,3,3.2,2.32]
-frog = 'frog-game-main/frog!.png'
+frog = 'frog!.png'
 player = Entity(model = 'sphere', scale = (0.35,0.35,0.35), position = (0,-2), texture = frog, collider = 'box')
 rains = []
 hazards = []
